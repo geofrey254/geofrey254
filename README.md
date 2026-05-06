@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @geofrey254<br>👀 I’m interested in Web Application Development, Networking and Security<br>🌱 I’m currently learning Networking and Security<br>💞️ I’m looking to collaborate on Software Development Projects<br>📫 How to reach me 
+👋 Hi, I’m Geofrey<br>👀 I’m interested in Web Application Development, Networking and Security<br>🌱 I’m currently learning Networking and Security<br>💞️ I’m looking to collaborate on Software Development Projects<br>📫 How to reach me 
 
 
 ## 🌐 Socials:
